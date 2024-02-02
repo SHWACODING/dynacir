@@ -13,7 +13,7 @@ Dynacir is a transpilation plugin for Qiskit that optimizes dynamic quantum circ
 To install `dynacir`, run the following command in your terminal:
 
 ```bash
-pip install dynacir
+pip install git+https://github.com/derek-wang-ibm/dynacir.git
 ```
 
 ### Usage
