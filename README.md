@@ -16,6 +16,10 @@ To install `dynacir`, run the following command in your terminal:
 pip install git+https://github.com/derek-wang-ibm/dynacir.git
 ```
 
+or 
+```bash
+pip install dynacir
+```
 ### Usage
 
 First, create a `QuantumCircuit`.`
